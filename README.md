@@ -1,6 +1,6 @@
 # Advent of code solutions
 __Author:__ Marco Del Corto
-__linkedin:__ [Marco Del Corto](www.linkedin.com/in/marco-del-corto-9075b852)  
+__linkedin:__ [Marco Del Corto](https://www.linkedin.com/in/marco-del-corto-9075b852)  
 __website:__ [www.genesi-srl.com](www.genesi-srl.com) -  [www.skillup.cloud](www.skillup.cloud)  
 
 
